@@ -6,7 +6,7 @@ export default () => {
       <section id="header">
         <div className="container">
           <h1 id="logo">
-            <a href="index.html">Strongly Typed</a>
+            <Link to="/">Strongly Typed</Link>
           </h1>
           <p>A responsive HTML5 site template. Manufactured by HTML5 UP.</p>
           <nav id="nav">
@@ -17,19 +17,19 @@ export default () => {
                 </Link>
               </li>
               <li>
-                <a className="icon solid fa-cog" href="left-sidebar.html">
+                <Link className="icon solid fa-cog" to="LeftSidebar">
                   <span>Left Sidebar</span>
-                </a>
+                </Link>
               </li>
               <li>
-                <a className="icon solid fa-retweet" href="right-sidebar.html">
+                <Link className="icon solid fa-retweet" to="RightSidebar">
                   <span>Right Sidebar</span>
-                </a>
+                </Link>
               </li>
               <li>
-                <a className="icon solid fa-sitemap" href="no-sidebar.html">
-                  <span>No Sidebar</span>
-                </a>
+                <Link className="icon solid fa-sitemap" to="NoSidebar">
+                  <span>Todo List</span>
+                </Link>
               </li>
             </ul>
           </nav>

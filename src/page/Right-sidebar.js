@@ -7,17 +7,15 @@ export default () => {
             <article className="box post">
               <header>
                 <h2>
-                  <a href="#">
-                    I don’t want to say <strong>it’s the aliens</strong> ...
-                    <br />
-                    but it’s the aliens.
-                  </a>
+                  Behold! This is the <strong>right sidebar</strong> layout
+                  <br />
+                  with a sidebar on the right!
                 </h2>
               </header>
-              <a href="#" className="image featured">
+              <span className="image featured">
                 <img src="images/pic04.jpg" alt="" />
-              </a>
-              <h3>I mean isn't it possible?</h3>
+              </span>
+              <h3>Right is also not left</h3>
               <p>
                 Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
                 ligula vel quam viverra sit amet mollis tortor congue. Sed quis
@@ -28,29 +26,19 @@ export default () => {
                 ipsum consequat Phasellus laoreet massa id justo mattis
                 pharetra. Fusce suscipit ligula vel quam viverra sit amet mollis
                 tortor congue. Sed quis mauris sit amet magna accumsan
-                tristique. Curabitur leo nibh, rutrum eu malesuada in tristique.
+                tristique. Curabitur leo nibh, rutrum eu malesuada in tristique
               </p>
-              <ul className="actions">
-                <li>
-                  <a href="#" className="button icon solid fa-file">
-                    Continue Reading
-                  </a>
-                </li>
-              </ul>
-            </article>
-            <article className="box post">
-              <header>
-                <h2>
-                  <a href="#">
-                    By the way, many thanks to <strong>regularjane</strong>
-                    for these awesome demo photos
-                  </a>
-                </h2>
-              </header>
-              <a href="#" className="image featured">
-                <img src="images/pic05.jpg" alt="" />
-              </a>
-              <h3>You should probably check out her work</h3>
+              <p>
+                Erat lorem ipsum veroeros consequat magna tempus lorem ipsum
+                consequat Phasellus laoreet massa id justo mattis pharetra.
+                Fusce suscipit ligula vel quam viverra sit amet mollis tortor
+                congue. Sed quis mauris sit amet magna accumsan tristique.
+                Curabitur leo nibh, rutrum eu malesuada in, tristique at erat.
+                Curabitur leo nibh, rutrum eu malesuada in, tristique at erat
+                lorem ipsum dolor sit amet lorem ipsum sed consequat magna
+                tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
+                consequat magna tempus
+              </p>
               <p>
                 Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
                 ligula vel quam viverra sit amet mollis tortor congue. Sed quis
@@ -63,26 +51,55 @@ export default () => {
                 consequat magna tempus lorem ipsum consequat Phasellus laoreet
                 massa id justo mattis pharetra. Fusce suscipit ligula vel quam
                 viverra sit amet mollis tortor congue. Sed quis mauris sit amet
-                magna accumsan tristique. Curabitur leo nibh, rutrum malesuada.
+                magna accumsan tristique. Curabitur leo nibh, rutrum eu
+                malesuada in tristique
+              </p>
+              <h3>Accumsan lorem ipsum veroeros</h3>
+              <p>
+                Consequat Phasellus laoreet massa id in, tristique at erat lorem
+                ipsum dolor sit amet lorem ipsum sed consequat magna tempus
+                veroeros consequat magna tempus lorem ipsum consequat Phasellus
+                laoreet massa id justo mattis pharetra. Fusce suscipit ligula
+                vel quam viverra sit amet mollis tortor congue. Sed quis mauris
+                sit amet magna.
               </p>
               <p>
-                Erat lorem ipsum veroeros consequat magna tempus lorem ipsum
-                consequat Phasellus laoreet massa id justo mattis pharetra.
-                Fusce suscipit ligula vel quam viverra sit amet mollis tortor
-                congue. Sed quis mauris sit amet magna accumsan tristique.
-                Curabitur leo nibh, rutrum eu malesuada in, tristique at erat.
-                Curabitur leo nibh, rutrum eu malesuada in, tristique at erat
+                Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
+                ligula vel quam viverra sit amet mollis tortor congue. Sed quis
+                mauris sit amet magna accumsan tristique. Curabitur leo nibh,
+                rutrum eu malesuada in, tristique at erat lorem ipsum dolor sit
+                amet lorem ipsum sed consequat consequat magna tempus lorem
+                ipsum consequat Phasellus laoreet massa id in, tristique at erat
                 lorem ipsum dolor sit amet lorem ipsum sed consequat magna
                 tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
-                consequat magna tempus.
+                consequat magna tempus lorem ipsum consequat Phasellus laoreet
+                massa id justo mattis pharetra. Fusce suscipit ligula vel quam
+                viverra sit amet mollis tortor congue. Sed quis mauris sit amet
+                magna accumsan tristique. Curabitur leo nibh, rutrum eu
+                malesuada in tristique
               </p>
-              <ul className="actions">
-                <li>
-                  <a href="#" className="button icon solid fa-file">
-                    Continue Reading
-                  </a>
-                </li>
-              </ul>
+              <h3>Ligula suspcipit fusce veroeros</h3>
+              <p>
+                Nullam dolore etiam sed massa id in, tristique at erat lorem
+                ipsum dolor sit amet lorem ipsum sed consequat magna tempus
+                veroeros consequat magna tempus lorem ipsum consequat Phasellus
+                laoreet massa id justo mattis pharetra. Fusce suscipit ligula
+                vel quam viverra sit amet mollis tortor congue. Sed quis mauris
+                sit amet magna.
+              </p>
+              <p>
+                Sed massa id justo mattis pharetra. Fusce suscipit ligula vel
+                quam viverra sit amet mollis tortor congue. Sed quis mauris sit
+                amet magna accumsan tristique. Curabitur leo nibh, rutrum eu
+                malesuada in, tristique at erat lorem ipsum dolor sit amet lorem
+                ipsum sed consequat consequat magna tempus lorem ipsum consequat
+                Phasellus laoreet massa id in, tristique at erat lorem ipsum
+                dolor sit amet lorem ipsum sed consequat magna tempus veroeros
+                lorem sed tempus aliquam lorem ipsum veroeros consequat magna
+                tempus lorem ipsum consequat Phasellus laoreet massa id justo
+                mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
+                mollis tortor congue. Sed quis mauris sit amet magna accumsan.
+              </p>
             </article>
           </div>
           <div id="sidebar" className="col-4 col-12-medium">

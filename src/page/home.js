@@ -5,8 +5,8 @@ import Indexmain from "../component/Indexmain";
 export default () => {
   return (
     <>
-      <Banner />
       <Features />
+      <Banner />
       <Indexmain />
     </>
   );
